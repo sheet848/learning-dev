@@ -3,6 +3,8 @@
 // 2. Focus show and hide
 // 3. improving performance -> debouncing
 // 4. backtracking also calls for API repeating -> solution: cache results
+// 5. down and up arrow Key -> switch some results *
+// 6. add accessibility *
 import React, { useEffect, useState } from 'react'
 import './App.css'
 
